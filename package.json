@@ -1,0 +1,15 @@
+{
+  "name": "christmas-tree-photo-wall",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Gesture-controlled Christmas tree photo wall for static hosting.",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "preview": "npx serve dist",
+    "start": "npx serve ."
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
