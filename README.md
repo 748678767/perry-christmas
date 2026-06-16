@@ -12,7 +12,7 @@
 
 ## 部署說明
 
-### 上傳到 GitHub
+### Fork到自己的GitHub
 
 1. 在 GitHub 建立一個新的 repository。
 2. 將本資料夾內的檔案上傳到 repository，至少包含：
